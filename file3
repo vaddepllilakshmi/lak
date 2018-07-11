@@ -1,4 +1,4 @@
-[master 341c0e4] hello world 2 nd copy ....
+[master e840346] hello indianpeople
  Committer: root <root@ip-172-31-5-174.ap-south-1.compute.internal>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -12,4 +12,6 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 1 file changed, 5 insertions(+), 1 deletion(-)
+ 2 files changed, 16 insertions(+), 5 deletions(-)
+ rewrite file3 (98%)
+ create mode 100644 file4
