@@ -1,5 +1,15 @@
-On branch master
-Changes not staged for commit:
-	modified:   file3
+[master 341c0e4] hello world 2 nd copy ....
+ Committer: root <root@ip-172-31-5-174.ap-south-1.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
 
-no changes added to commit
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 1 deletion(-)
